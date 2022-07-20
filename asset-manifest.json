@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9692c1d.css",
-    "main.js": "/static/js/main.03741c28.js",
+    "main.css": "/static/css/main.b567eca6.css",
+    "main.js": "/static/js/main.7d3df164.js",
     "static/media/buffon-thin-webfont.svg": "/static/media/buffon-thin-webfont.26c93f0e91a38bd8be08.svg",
     "static/media/karla-variablefont_wght-webfont.ttf": "/static/media/karla-variablefont_wght-webfont.059222d9ab7ffb8b7cf2.ttf",
     "static/media/karla-variablefont_wght-webfont.svg": "/static/media/karla-variablefont_wght-webfont.b9a26402eba511a2325a.svg",
@@ -13,11 +13,11 @@
     "static/media/buffon-thin-webfont.eot": "/static/media/buffon-thin-webfont.3e46f67a258d39b527ed.eot",
     "static/media/buffon-thin-webfont.woff2": "/static/media/buffon-thin-webfont.55c180f7859cb78b3791.woff2",
     "index.html": "/index.html",
-    "main.c9692c1d.css.map": "/static/css/main.c9692c1d.css.map",
-    "main.03741c28.js.map": "/static/js/main.03741c28.js.map"
+    "main.b567eca6.css.map": "/static/css/main.b567eca6.css.map",
+    "main.7d3df164.js.map": "/static/js/main.7d3df164.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9692c1d.css",
-    "static/js/main.03741c28.js"
+    "static/css/main.b567eca6.css",
+    "static/js/main.7d3df164.js"
   ]
 }
